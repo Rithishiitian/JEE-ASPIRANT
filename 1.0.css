@@ -1,0 +1,69 @@
+html{
+	background:#FFC700;
+}
+
+.navbar ul{
+	list-style-type:none;
+	text-align:center;
+	background:#31363F;
+	overflow:hidden;
+	display:block;
+	border-radius:15px;
+}
+
+.navbar a{
+	text-decoration:none;
+	text-align:center;
+	display:block;
+	padding:6px;
+	overflow:hidden;
+}
+
+
+
+.navbar li{
+	float:left;
+}
+
+#h1{
+	background:#7bcf5d;
+	border-radius:10px;	
+}
+
+#jee:hover{
+	background:#0C0C0C;
+	border-style:double;
+	border-radius:8px;
+	border-width:8px;
+}
+
+#h2:hover{
+	background:#0C0C0C;
+	border-style:double;
+	border-radius:8px;
+	border-width:8px;
+}
+
+#h3:hover{
+	background:#0C0C0C;
+	border-style:double;
+	border-radius:8px;
+	border-width:8px;
+}
+
+#h4:hover{
+	background:#0C0C0C;
+	border-style:double;
+	border-radius:8px;
+	border-width:8px;
+}
+
+span a{
+	text-decoration:none;
+	color:#8b2af5;
+	padding:15px;
+}
+
+#physics{
+	color:red;
+}

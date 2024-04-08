@@ -1,0 +1,36 @@
+html{
+	background:#FFC700;
+}
+
+.navbar ul{
+	list-style-type:none;
+	text-align:center;
+	background:#31363F;
+	overflow:hidden;
+	display:block;
+	border-radius:15px;
+}
+
+.navbar a{
+	text-decoration:none;
+	text-align:center;
+	display:block;
+	background:#31363F;
+	padding:6px;
+	overflow:hidden;
+}
+
+.navbar a:hover{
+	background:#0C0C0C;
+	border-style:double;
+	border-radius:8px;
+}
+
+.navbar li{
+	float:left;
+}
+
+#h1:hover{
+	border: 3px,green;
+	background:green;
+}
